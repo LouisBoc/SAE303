@@ -29,7 +29,7 @@ La visualisation proposée utilise un graphique à barres pour représenter les 
 - Le  site présente deux type de graphique de différentes tailles, l'un pour la part de SAT,UNSAT et UNKNOWN pour un solver et l'autre pour le rapport nombres de variables/temps pour un solveur.
 
 ## Captures d'écran
-![Capture d'écran 1]([./Shots mockup (1)..png](https://github.com/LouisBoc/SAE303/blob/main/Shots%20mockup%20(1)..png?raw=true))
+![Capture d'écran 1](https://github.com/LouisBoc/SAE303/blob/main/Shots%20mockup%20(1)..png?raw=true)
 *Description : Capture d'écran de la visualisation des données avec le graphique à barres.*
 
 ![Capture d'écran 2](screenshots/screenshot2.png)
