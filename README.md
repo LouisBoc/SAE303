@@ -32,7 +32,4 @@ La visualisation proposée utilise un graphique à barres pour représenter les 
 ![Capture d'écran 1](https://github.com/LouisBoc/SAE303/blob/main/Shots%20mockup%20(1)..png?raw=true)
 *Description : Capture d'écran de la visualisation des données avec le graphique à barres.*
 
-![Capture d'écran 2](screenshots/screenshot2.png)
-*Description : Capture d'écran montrant le code JavaScript utilisé pour créer le graphique avec Chart.js.*
-
 N'hésitez pas à explorer le code source et à contribuer à l'amélioration de cette visualisation. Vos retours sont les bienvenus !
